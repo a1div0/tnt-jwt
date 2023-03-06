@@ -1,5 +1,6 @@
 .idea/
 .rocks/
 sdk/
+openssl*/
 *.out
-openssl-1.0.2k/
+*.rock
